@@ -7,7 +7,7 @@ SET QUOTED_IDENTIFIER ON
 GO
 
 /* =============================================
-   Author:        Ravindar Amuram
+   Author:        Vali Shaik
    Create date:   (original)
    Description:   Get the request details to format a SWIFT payment file.
                   Supports three request types:
